@@ -1,1 +1,2 @@
-# mist4610-group7-Project-2-Snowflake-Analytics-Dashboard
+# Group 7
+# Project 2 - Snowflake Analytics Dashboard
